@@ -1,0 +1,22 @@
+# Ambiente Virtual
+venv/
+.venv/
+
+# Banco de Dados de teste
+*.sqlite3
+db.sqlite3
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de Ambiente (senhas, etc.)
+.env
+
+# Pastas de IDE e Sistema
+.vscode/
+.idea/
+.DS_Store
+
+# Arquivos de Log
+*.log
